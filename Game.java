@@ -9,7 +9,7 @@ import java.io.InputStreamReader;
  * Created by Hovhannes Asatryan on 12.03.16
  */
 
-public class game
+public class Game
 {
     private static Cell[][] board = initializeBoard();
     private static String player = "2";
